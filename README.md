@@ -36,11 +36,6 @@ C'est mon cœur de métier. Je conçois et développe des applications capables 
 - **Spoofing HWID** : Altération des identifiants uniques (disque dur, carte mère, CPU, carte réseau).
 - **Contournement de bans** : Développement de solutions pour rétablir l'accès à des plateformes ou des jeux.
 
-### 🎮 Développement de Cheats (C++)
-Sur des projets plus ciblés, je développe des outils de triche pour manipuler le comportement des jeux.
-- **Cheats externes** : Lecture et écriture en mémoire pour des fonctionnalités comme l'Aimbot, l'ESP ou le Wallhack.
-- **Injection de code** : Création de DLLs pour modifier le flux d'exécution d'un processus.
-
 ### ⚡ Scripts d'Optimisation (JS / PowerShell)
 J'écris des scripts pour extraire le maximum de performance des machines et des logiciels.
 - **Overclocking de jeux** : Scripts pour appliquer des profils d'overclocking GPU/CPU spécifiques à chaque jeu.
