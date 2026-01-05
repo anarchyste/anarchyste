@@ -19,8 +19,6 @@ Je m'intéresse également à la manipulation de jeux (cheats) et à l'optimisat
 
 ### Outils & Frameworks
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![x64dbg](https://img.shields.io/badge/x64dbg-41454A?style=for-the-badge&logo=x64dbg&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-313131?style=for-the-badge&logo=ida-pro&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
